@@ -2750,7 +2750,8 @@ input[type="button"]:disabled,
 /* Footer */
 
 #footer .icons {
-  margin: 1em 0 0 0;
+  margin: 1em 0 0 25em;
+
 }
 
 #footer .icons a {
@@ -3123,7 +3124,7 @@ body.is-touch .poptrox-popup .closer {
     border-left-width: 0;
     display: block;
     line-height: 2.25em;
-    margin-left: 0;
+    margin-left: 3;
     padding-left: 0;
   }
 
